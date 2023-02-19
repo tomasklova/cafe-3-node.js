@@ -1,5 +1,5 @@
 const express = required("esxpress");
-consgt app = express();
+const app = express();
 const port = 3000;
 
 // req - request - duomenys kuriuos paduoda kviečiantysis pvz. POST user duomenys ar validacijos raktas
